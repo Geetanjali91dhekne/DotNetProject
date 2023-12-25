@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "C74y8IQbaAIo30PMm8B1huz4U2vbdNpKMLF0+92JrDM=",
+  "Source": "LogbookManagementService",
+  "BasePath": "_content/LogbookManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LogbookManagementService\\wwwroot",
+      "Source": "LogbookManagementService",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\ASP DOT NET MVC Project\\SuzlonFleetManager\\GitDevelopment04_12_2023\\fleetmanager-bk\\LogbookManagementService\\wwwroot\\",
+      "BasePath": "_content/LogbookManagementService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\ASP DOT NET MVC Project\\SuzlonFleetManager\\GitDevelopment04_12_2023\\fleetmanager-bk\\LogbookManagementService\\wwwroot\\LogbookEmployee.pdf",
+      "SourceId": "LogbookManagementService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\ASP DOT NET MVC Project\\SuzlonFleetManager\\GitDevelopment04_12_2023\\fleetmanager-bk\\LogbookManagementService\\wwwroot\\",
+      "BasePath": "_content/LogbookManagementService",
+      "RelativePath": "LogbookEmployee.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LogbookEmployee.pdf"
+    }
+  ]
+}

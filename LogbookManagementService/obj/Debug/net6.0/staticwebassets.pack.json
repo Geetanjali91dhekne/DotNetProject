@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\ASP DOT NET MVC Project\\SuzlonFleetManager\\GitDevelopment04_12_2023\\fleetmanager-bk\\LogbookManagementService\\wwwroot\\LogbookEmployee.pdf",
+      "PackagePath": "staticwebassets\\LogbookEmployee.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LogbookManagementService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LogbookManagementService.props",
+      "PackagePath": "build\\LogbookManagementService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LogbookManagementService.props",
+      "PackagePath": "buildMultiTargeting\\LogbookManagementService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LogbookManagementService.props",
+      "PackagePath": "buildTransitive\\LogbookManagementService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
